@@ -1,0 +1,13 @@
+detections_count = 27178, unique_truth_count = 8206  
+class_id = 0, name = bus, ap = 87.52%   	 (TP = 160, FP = 48) 
+class_id = 1, name = car, ap = 86.17%   	 (TP = 2335, FP = 736) 
+class_id = 2, name = container, ap = 84.48%   	 (TP = 196, FP = 95) 
+class_id = 3, name = motorcycle, ap = 72.02%   	 (TP = 3078, FP = 1044) 
+class_id = 4, name = truck, ap = 86.58%   	 (TP = 656, FP = 284) 
+
+ for conf_thresh = 0.25, precision = 0.74, recall = 0.78, F1-score = 0.76 
+ for conf_thresh = 0.25, TP = 6425, FP = 2207, FN = 1781, average IoU = 58.03 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.833547, or 83.35 % 
+Total Detection Time: 44 Seconds
