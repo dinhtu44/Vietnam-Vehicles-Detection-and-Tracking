@@ -6,7 +6,8 @@ Chúng tôi chia dự án của chúng tôi thành 2 giai đoạn:
 Ở có 2 giai đoạn chúng tôi đều có kết quả đánh giá, và thực hiện demo, chúng tôi đã đưa lên ví dụ demo cho 2 bài toán.
 
 -------------
-#Bài báo khoa học được công khai tại hội nghị:
+#Bài báo khoa học được công khai tại hội nghị khoa học:
+
 Hoang-Thong Vo, Ngan-Linh Nguyen, Thien-Long Nguyen, Dinh-Tu Vo, and Trong-Hop Do, “Xây Dựng
 Bộ Dữ Liệu UIT-DET Cho Hệ Thống Giám Sát Giao Thông Trong Thành Phố Thông Minh”, 2021 10th CITA
 National Conference on Information Technology and Its Applications (Accepted)
